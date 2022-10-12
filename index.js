@@ -1,5 +1,3 @@
-alert("Recarregue a página para rodar os dados!!");
-
 // Declaração das variáveis que geram números aleatórios
 var randomNumber1 = Math.floor(Math.random() * 6)+1;
 var randomNumber2 = Math.floor(Math.random() * 6)+1;
